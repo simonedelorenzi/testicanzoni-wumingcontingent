@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:mo="http://purl.org/ontology/mo/">
+
+  <mo:MusicGroup rdf:about="https://it.wikipedia.org/wiki/Wu_Ming_Contingent">
+    <dc:title>Wu Ming Contingent</dc:title>
+    <foaf:homepage rdf:resource="https://www.wumingfoundation.com/giap/tag/wu-ming-contingent/"/>
+  </mo:MusicGroup>
+
+  <foaf:Group rdf:about="https://www.wikidata.org/wiki/Q111417483" rdfs:subClassOf="https://www.wikidata.org/wiki/Q1752976">
+    <foaf:name>Wu Ming Contingent</foaf:name>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:givenName>Giovanni Cattabriga</foaf:givenName>
+        <foaf:name>Wu Ming 2</foaf:name>        
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:givenName>Riccardo Pedrini</foaf:givenName>
+        <foaf:name>Wu Ming 5</foaf:name>       
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Yu Guerra</foaf:name>       
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Cesare Ferioli</foaf:name>       
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Egle Sommacal</foaf:name>       
+      </foaf:Person>
+    </foaf:member>    
+  </foaf:Group>
+
+  <mo:Record rdf:about="https://www.wikidata.org/wiki/Q111417652" mo:track_count="10" mo:producer="Andrea Marmorini" mo:discogs="https://www.discogs.com/master/720450" mo:catalogue_number="WW019" mo:wikipedia="https://it.wikipedia.org/wiki/Bioscop">
+    <dc:title>Bioscop</dc:title>
+    <mo:Label>Woodworm</mo:Label>
+    <mo:ReleaseType>Album</mo:ReleaseType>
+    <mo:track mo:track_number="1" mo:duration="253800" mo:musicbrainz="https://musicbrainz.org/recording/55e549e6-853d-4928-acfa-3a8326da025e" mo:musicbrainz_guid="55e549e6-853d-4928-acfa-3a8326da025e"/>
+      <dc:title>Soldato Manning</dc:title>
+      <mo:Stream rdf:resource="https://soundcloud.com/wumingcontingent/soldato-manning"/>
+      <mo:Lyrics rdf:resource="https://genius.com/Wu-ming-contingent-soldato-manning-lyrics"/>
+      <mo:PublishedLyrics rdf:resource="http://web.archive.org/web/20140801184726/https://www.sentireascoltare.com/wp-content/uploads/2014/04/booklet-wu-ming-contingent.pdf"/>
+        <mo:text>Il soldato Manning non è il tipico palestrato
+          visto e rivisto in diecimila film.
+          Faccia da cupido, alto un metro e un tappo,
+          pesa come una modella ed è pure omosessuale.
+          
+          Ha ventidue anni quando arriva a Bagdad
+          come specialista di informatica.
+          Un giorno lo consultano su quindici iracheni
+          arrestati per stampa sovversiva.
+          
+          Bradley analizza il pericoloso pamphlet
+          e scopre che non ha nulla di pericoloso.
+          Ma il suo superiore comanda di star zitto,
+          perché gli Stati Uniti hanno bisogno di sospetti.
+          
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          
+          Bradley da quel momento comincia a dubitare
+          di essersi schierato dalla parte dei buoni.
+          Sulla rivista Wired legge un pezzo dedicato
+          all’hacker Adrian Lamo, Robin Hood al silicio.
+          
+          Bradley contatta Lamo in una chat
+          e gli fa una domanda piuttosto imbarazzante:
+          “Tu cosa faresti, se potessi divulgare
+          segreti capaci di cambiare il pianeta?”.
+          
+          Lamo prova a rispondere, poi si spaventa,
+          e alla faccia dei pirati e di Robin Hood
+          va dritto all’FBI e racconta di ‘sto tizio
+          che vuole infangare la guerra al terrore.
+          
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          
+          Nel frattempo Manning diffonde i documenti
+          E il video di due elicotteri che uccidono civili inermi.
+          In un sobborgo vicino a Bagdad,
+          in un sobborgo vicino a Bagdad.
+          
+          Nel maggio 2010 Manning viene arrestato,
+          poi torturato con l’isolamento.
+          Spogliato nudo, sorvegliato ogni notte,
+          sottoposto alla vendetta dei veri patrioti.
+          
+          In un mondo migliore il soldato Bradley
+          riceverebbe una medaglia al valore.
+          Nel nostro il valore è quello di obbedire,
+          così avrà un processo e cent’anni di dolore.
+          
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          Tu sogni che cambieresti se potessi cambiare,
+          ma la maggioranza fa quel che deve fare.
+          
+          Ma la maggioranza fa quel che deve fare.
+          Ma la maggioranza fa quel che deve fare.</mo:text>
+  </mo:Record>
+
+  <mo:Genre>
+    <dc:title>Post-rock</dc:title>
+    <dc:title>Punk rock</dc:title>
+    <dc:title>Spoken word</dc:title>
+    <dc:title>Post-punk</dc:title>
+  </mo:Genre>
+
+</rdf:RDF>

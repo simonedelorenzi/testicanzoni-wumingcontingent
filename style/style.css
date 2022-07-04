@@ -1,0 +1,383 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+.pagine {
+    text-align: center;
+    padding: 5px;
+}
+.home-title {
+    color: grey;
+    text-decoration: none;
+}
+.home-title:hover {
+    color: #ff4d4d;
+}
+.title-top {
+    color: black;
+    text-decoration: none;
+ 
+}
+.style-footer {
+    color: black;
+    text-decoration: none;
+}
+.title-footer {
+    color: black;
+}
+.title-footer:hover {
+    color: white;
+}
+.title-top:hover {
+    color: white;
+}
+#menu {
+    margin: 10px;
+}
+footer {
+    text-align: center;
+    background: #BA342B;
+}
+.cover {
+    width: 350px;
+    height: auto;
+    margin: auto;
+}
+.portrait {
+    width: 250px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lyrics-booklet {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lyrics-disco {
+    padding: 5px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.persone {
+    text-decoration: red underline wavy;
+    font-weight: bold;
+}
+.luoghi {
+    text-decoration: green underline wavy;
+    font-weight: bold;
+}
+.date {
+    text-decoration: purple underline wavy;
+    font-weight: bold;
+}
+.person {
+    text-decoration: red underline wavy;
+}
+.place {
+    text-decoration: green underline wavy;
+}
+.time {
+    text-decoration: purple underline wavy;
+}
+.strofa {
+    border-left: 10px solid white;
+}
+.strofa:hover {
+    border-left: 10px solid #BF5DE3;
+    border-radius: 10px;
+}
+.ritornello {
+    border-left: 10px solid white;
+}
+.ritornello:hover {
+    border-left: 10px solid #E3AA30;
+    border-radius: 10px;
+}
+.outro {
+    border-left: 10px solid white;
+}
+.outro:hover {
+    border-left: 10px solid #46E39E;
+    border-radius: 10px;
+}
+.stro {
+    color: #BF5DE3;
+}
+.rito {
+    color: #E3AA30;
+}
+.outr {
+    color: #46E39E;
+}
+.listen {
+    text-align: center;
+}
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wiki {
+    float: right;
+    margin-top: 2%;
+    font-size: small;
+}
+.card-img-top {
+    width: 100%;
+    height: 200px;
+}
+.bottonend {
+    height: 100%;
+    width: 100%;
+    background: none;
+    text-align: center;
+    color: black;
+    border: solid;
+    font-weight: bold;
+    padding-top: 40%;
+}
+.bottonend:hover {
+    background-color: #BA342B;
+}
+.vali {
+    font-size: large;
+}
+.btn-card {
+    width: 100%;
+    background-color: #ff4d4d;
+    border-color: white;
+}
+.btn-card:hover {
+    background-color: #BA342B;
+    border-color: white;
+    color: white;
+}
+.btn-collapse {
+    width: 100%;
+    background-color: #06BA9F;
+    border-color: white;
+    font-weight: bold;
+}
+.btn-collapse:hover {
+    background-color: #06BA9F;
+    border-color: white;
+}
+.btn-collapse:focus {
+    background-color: #06BA9F;
+    border-color: white;
+}
+.box-text {
+    padding: 15%;
+}
+.box2 {
+    padding: 20px 0;
+}
+#original {
+    background-color: #ffc0cb;
+}
+#explore {
+    float: right;
+}
+.img-header {
+    width: 100%;
+    height: auto;
+}
+.album-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.table-title {
+    text-align: center
+}
+table {
+    border-collapse: collapse
+}
+td,
+th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.card-list {
+    text-align: left;
+}
+.mini-title {
+    margin: auto;
+    width: 50%;
+    padding: 50%;
+    color: #ff4d4d;
+}
+.quadratino {
+    list-style-type: square;
+    margin-top: 20px;
+}
+.home-img {
+    width: 100%;
+    height: auto;
+}
+.license {
+    color: black;
+    text-decoration: underline;
+}
+.justify {
+    text-align: justify;
+}
+.maiuscoletto {
+    font-variant: small-caps;
+}
+.subject {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.subject:hover {
+    color: #87CEFA;
+    text-decoration: underline;
+}
+.song-link {
+    color: #E74C3C;
+}
+.song-link:hover {
+    color: #E74C3C;
+    text-decoration: underline;
+}
+.small-title {
+    font-size: x-large;
+    white-space: nowrap;
+}
+#scrollsidebar {
+    overflow-y: scroll;
+    height: 500px;
+    padding-right: 4px;
+    margin-top: 1.5em;
+}
+.noborder {
+    border: none;
+}
+.margin-top {
+    margin-top: 20px;
+}
+.image {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 100%;
+}
+.image img {
+    position: absolute;
+}
+.img-album {
+    width: 60%;
+    height: auto;
+}
+.wrapper {
+    position: relative;
+    height: 250px;
+    width: 300px;
+}
+.dates-collapse {
+    overflow: hidden;
+    display: none;
+}
+.margin-bottom {
+    margin-bottom: 10px;
+}
+.titoletto {
+    font-size: medium;
+}
+.imgbtn {
+    width: 50%;
+    height: auto;
+}
+.btnimg {
+    padding: 1px;
+    margin: 1px;
+    background: none;
+    border: none;
+}
+.btnimg:hover {
+    padding: 1px;
+    margin: 1px;
+    background: none;
+    border: none;
+}
+.btnimg:focus {
+    background: none;
+    border: none;
+}
+.zoom {
+    padding: 25px;
+    transition: transform .2s; /* Animation */
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+}
+.barra {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 7px;
+    padding: 0;
+}
+#timeline {
+    background: #b90e0e;
+    border: white;
+}
+.bi-info-square {
+    font-size: x-large;
+}
+.spilla {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin-left: 5%;
+}
+.didascalia {
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
+
+.didascalia p {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    color: #fff;
+    display: none;
+    width: 100%;
+    padding: 10px;
+}
+
+.didascalia:hover p {
+    display: block;
+}
+section {
+    background: #fbdfdf;
+}
+.tematiche {
+    text-align: center;
+    background-color: #b90e0e;
+    border-radius: 20px;
+    color: white;
+}
+.btn-theme {
+    width: 100%;
+}
+.btn-theme:hover {
+    background-color: #ff4d4d;
+    border: none;
+}

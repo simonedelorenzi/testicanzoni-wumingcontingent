@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soldato Manning</title>
+				<respStmt>
+					<resp>editor</resp>
+					<name xml:id="sdl">Simone De Lorenzi</name>
+				</respStmt>
+				<respStmt>
+					<resp>author</resp>
+					<name xml:id="wmc">Wu Ming Contingent</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Woodworm Label</publisher>
+				<pubPlace>Arezzo</pubPlace>
+				<date>2014-04-28</date>
+				<availability>
+					<p>Distribuito con licenza CC-BY-SA 4.0</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Testo adattato dal booklet dell'album Bioscop</p>
+			</sourceDesc>
+			
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">
+						<title type="main">Soldato Manning</title>
+					</titlePart>
+				</docTitle>
+			</titlePage>
+		</front>
+		<body>
+			<lg type="strofa">
+				<l>Il soldato <persName ref="rdf/persone.rdf#BM">Manning</persName> non è il tipico
+					palestrato</l>
+				<l>visto e rivisto in diecimila film.</l>
+				<l>Faccia da cupido, alto un metro e un tappo,</l>
+				<l>pesa come una modella ed è pure omosessuale.</l>
+			</lg>
+			<lg type="strofa">
+				<l>Ha ventidue anni quando arriva a <geogName ref="https://www.geonames.org/98182/">Bagdad</geogName></l>
+				<l>come specialista di informatica.</l>
+				<l>Un giorno lo consultano su quindici iracheni</l>
+				<l>arrestati per stampa sovversiva.</l>
+			</lg>
+			<lg type="strofa">
+				<l><persName ref="rdf/persone.rdf#BM">Bradley</persName> analizza il pericoloso
+					pamphlet</l>
+				<l>e scopre che non ha nulla di pericoloso.</l>
+				<l>Ma il suo superiore comanda di star zitto,</l>
+				<l>perché gli <geogName ref="https://www.geonames.org/6252001/">Stati Uniti</geogName> hanno bisogno di sospetti.</l>
+			</lg>
+			<lg type="ritornello">
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+			</lg>
+			<lg type="strofa">
+				<l><persName ref="rdf/persone.rdf#BM">Bradley</persName> da quel momento comincia a
+					dubitare</l>
+				<l>di essersi schierato dalla parte dei buoni.</l>
+				<l>Sulla rivista Wired legge un pezzo dedicato</l>
+				<l>all’hacker <persName ref="rdf/persone.rdf#AL">Adrian Lamo</persName>, Robin Hood
+					al silicio.</l>
+			</lg>
+			<lg type="strofa">
+				<l><persName ref="rdf/persone.rdf#BM">Bradley</persName> contatta <persName
+						ref="rdf/persone.rdf#AL">Lamo</persName> in una chat</l>
+				<l>e gli fa una domanda piuttosto imbarazzante:</l>
+				<l>“Tu cosa faresti, se potessi divulgare</l>
+				<l>segreti capaci di cambiare il pianeta?”.</l>
+			</lg>
+			<lg>
+				<l><persName ref="rdf/persone.rdf#AL">Lamo</persName> prova a rispondere, poi si
+					spaventa,</l>
+				<l>e alla faccia dei pirati e di Robin Hood</l>
+				<l>va dritto all’FBI e racconta di ‘sto tizio</l>
+				<l>che vuole infangare la guerra al terrore.</l>
+			</lg>
+			<lg type="ritornello">
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+			</lg>
+			<lg type="strofa">
+				<l>Nel frattempo <persName ref="rdf/persone.rdf#BM">Manning</persName> diffonde i
+					documenti</l>
+				<l>E il video di due elicotteri che uccidono civili inermi.</l>
+				<l>In un sobborgo vicino a <geogName ref="https://www.geonames.org/98182/">Bagdad</geogName>,</l>
+				<l>in un sobborgo vicino a <geogName ref="https://www.geonames.org/98182/">Bagdad</geogName>.</l>
+			</lg>
+			<lg type="strofa">
+				<l>Nel maggio <date ref="https://it.wikipedia.org/wiki/2010">2010</date>
+					<persName>Manning</persName> viene arrestato,</l>
+				<l>poi torturato con l’isolamento.</l>
+				<l>Spogliato nudo, sorvegliato ogni notte,</l>
+				<l>sottoposto alla vendetta dei veri patrioti.</l>
+			</lg>
+			<lg type="strofa">
+				<l>In un mondo migliore il soldato <persName ref="rdf/persone.rdf#BM"
+						>Bradley</persName></l>
+				<l>riceverebbe una medaglia al valore.</l>
+				<l>Nel nostro il valore è quello di obbedire,</l>
+				<l>così avrà un processo e cent’anni di dolore.</l>
+			</lg>
+			<lg type="ritornello">
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+				<l>Tu sogni che cambieresti se potessi cambiare,</l>
+				<l>ma la maggioranza fa quel che deve fare.</l>
+			</lg>
+			<lg type="outro">
+				<l>Ma la maggioranza fa quel che deve fare.</l>
+				<l>Ma la maggioranza fa quel che deve fare.</l>
+			</lg>
+		</body>
+		<back>
+			<ab type="occasione"> Liberamente ispirato all’articolo su Bradley Manning pubblicato da
+				GQ Italia nel febbraio 2011, all’interno della rubrica WuMingWood. Il testo
+				integrale si può leggere su Giap, il blog della Wu Ming Foundation:
+				http://www.wumingfoundation.com/giap/?p=3377 </ab>
+		</back>
+	</text>
+</TEI>

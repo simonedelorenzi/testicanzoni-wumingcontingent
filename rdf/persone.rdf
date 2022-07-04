@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/36972485/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Muhammad Ali</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/109833019/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Giulio Andreotti</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/123576614/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Vittorio Arrigoni</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/27123545/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Alessandro Baricco</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/24590058/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Fulgencio Batista</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/40635457/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Enzo Bearzot</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/84965604/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Roberto Benigni</foaf:name>
+  </rdf:Description>
+ 
+  <rdf:Description rdf:about="https://viaf.org/viaf/84210432/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Silvio Berlusconi</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/48578395/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>John Carlos</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/31991306/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Ernesto Che Guevara</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/20471592/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Elisabetta II d'Inghilterra</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/91539108/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Juan Manuel Fangio</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/33686860/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Fabio Fazio</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/105148586/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Filippo di Edimburgo</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q1428790">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>John Frum</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/38323081/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Gesù Cristo</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/59294259/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Beppe Grillo</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/39391273/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Ho Chi Minh</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/2989931/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Peter Kolosimo</foaf:name>
+  </rdf:Description> 
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/237145542522496640951/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:id="AL"/>
+    <foaf:name>Adrian Lamo</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/7393146/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Lenin</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/90217751/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Enrico Letta</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/98029748/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Nelson Mandela</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/170370248/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:id="BM"/>
+    <foaf:name>Bradley Manning</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/101186778/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Sergio Marchionne</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/107465912/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Peter Norman</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/84503806/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Giampaolo Pansa</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/18033485/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Erich Priebke</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/89401473/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Maximilien de Robespierre</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.anaronchis.it/il-ten.-rodolfo-rossetti.html">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Rodolfo Rossetti</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/32923885/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Paolo Rossi</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/90649613/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Roberto Saviano</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/64083221/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Vittorio Sgarbi</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/81030486/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Tommie Smith</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/63426292/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Sócrates</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/95161232/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Madre Teresa di Calcutta</foaf:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://viaf.org/viaf/44402552/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Bruno Vespa</foaf:name>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="https://viaf.org/viaf/93710720/">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <foaf:name>Bono Vox</foaf:name>
+  </rdf:Description>
+
+</rdf:RDF>
