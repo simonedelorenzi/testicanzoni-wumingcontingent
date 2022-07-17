@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mo="http://purl.org/ontology/mo/">
+
+  <mo:MusicGroup rdf:about="https://it.wikipedia.org/wiki/Wu_Ming_Contingent">
+    <dc:title>Wu Ming Contingent</dc:title>
+    <foaf:homepage rdf:resource="https://www.wumingfoundation.com/giap/tag/wu-ming-contingent/"/>
+    <mo:myspace rdf:resource="http://myspace.com/needlesuk"/>
+  </mo:MusicGroup>
+
+  <foaf:Group rdf:about="https://www.wikidata.org/wiki/Q111417483"
+    rdfs:subClassOf="https://www.wikidata.org/wiki/Q1752976">
+    <foaf:name>Wu Ming Contingent</foaf:name>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:givenName>Giovanni Cattabriga</foaf:givenName>
+        <foaf:name>Wu Ming 2</foaf:name>
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:givenName>Riccardo Pedrini</foaf:givenName>
+        <foaf:name>Wu Ming 5</foaf:name>
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Yu Guerra</foaf:name>
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Cesare Ferioli</foaf:name>
+      </foaf:Person>
+    </foaf:member>
+    <foaf:member>
+      <foaf:Person>
+        <foaf:name>Egle Sommacal</foaf:name>
+      </foaf:Person>
+    </foaf:member>
+  </foaf:Group>
+
+  <mo:Record rdf:about="https://www.wikidata.org/wiki/Q111417723" mo:track_count="6"
+    mo:producer="Andrea Marmorini" mo:discogs="https://www.discogs.com/it/master/1023766/"
+    mo:catalogue_number="WW019" mo:wikipedia="https://it.wikipedia.org/wiki/Schegge_di_Shrapnel">
+    <dc:title>Schegge di Shrapnel</dc:title>
+    <mo:Label>Woodworm</mo:Label>
+    <mo:ReleaseType>Album</mo:ReleaseType>
+    <mo:Genre>Post-punk</mo:Genre>
+    <mo:track mo:track_number="1" mo:duration="173000"
+      mo:musicbrainz="https://musicbrainz.org/recording/dce1bed7-85bf-4a5e-92b7-dc30dba53897"
+      mo:musicbrainz_guid="dce1bed7-85bf-4a5e-92b7-dc30dba53897"/>
+    <dc:title>Come esempio sulla massa</dc:title>
+    <mo:Stream rdf:resource="https://soundcloud.com/wumingcontingent/come-esempio-sulla-massa"/>
+    <mo:Lyrics rdf:resource="https://genius.com/Wu-ming-contingent-come-esempio-sulla-massa-lyrics"/>
+    <mo:PublishedLyrics
+      rdf:resource="https://ia902505.us.archive.org/5/items/mbid-5f3c63af-cfa5-495d-98a2-c8c95fa41c3c/mbid-5f3c63af-cfa5-495d-98a2-c8c95fa41c3c-32934161703.jpg"/>
+    <mo:text>Sono chiamato d'urgenza a visitare un soldato / ferito da una rivoltella. / Il maresciallo spiega che il soldato era sempre  / arrogante. / Al mattino, in seguito ad una osservazione del suo sergente, / lo minaccia coi pugni alzati, / quindi rifiuta di lasciarsi mettere i ferri / e s'avventa contro il maresciallo come per percuoterlo. / Allora questi estrae la rivoltella / e, mentre il soldato cerca di mettersi in salvo, / spara in direzione della schiena e lo vede cadere bocconi. // La sera a mensa discutiamo l'avvenimento. / Non posso fare a meno di osservare / che l’uso delle armi contro un soldato ribelle / sembra inadeguato allo scopo: / o è minaccia insulsa o causa un ferita o una morte, / che fa passare il torto dalla parte del ribelle / a quella di chi l'ha colpito. / Il maggiore mi dà subito torto, / trovando che l'uso delle armi reprime ed evita / l'estensione della ribellione, / avendo un effetto salutare come esempio sulla massa. / Il ferito all'addome è morto il giorno successivo / con fenomeni di peritonite. / Il maresciallo più tardi è stato assolto / dall'imputazione di omicidio: / per inesistenza di reato.</mo:text>
+  </mo:Record>
+
+</rdf:RDF>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title xml:id="https://musicbrainz.org/recording/55e549e6-853d-4928-acfa-3a8326da025e">Soldato
+    Manning</dc:title>
+  <dc:creator>Simone De Lorenzi</dc:creator>
+  <dc:date>2022-07-05</dc:date>
+  <dc:subject>Testo di canzone</dc:subject>
+  <dc:description>Testo digitale della canzone Soldato Manning del gruppo musicale Wu Ming
+    Contingent</dc:description>
+  <dc:publisher xml:id="https://www.wikidata.org/wiki/Q16623462">Woodworm Label</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>XML</dc:format>
+  <dc:language>Italiano</dc:language>
+  <dc:rights>Creative Commons BY-ND-SA 4.0</dc:rights>
+  <dc:source
+    xml:id="http://web.archive.org/web/20140801184726/https://www.sentireascoltare.com/wp-content/uploads/2014/04/booklet-wu-ming-contingent.pdf"
+    >Booklet di Bioscop</dc:source>
+  <dc:source
+    xml:id="https://www.wumingfoundation.com/giap/2011/03/per-bradley-manning-su-wikileaks-e-altro/"
+    >Articolo Per Bradley Manning. Su #wikileaks e altro, «GQ Italia», febbraio 2011, rubrica
+    "WuMingWood".</dc:source>
+  <dcterms:available>2022-07-05</dcterms:available>
+</library>

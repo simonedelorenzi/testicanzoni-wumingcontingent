@@ -325,6 +325,17 @@ th {
 .zoom:hover {
     transform: scale(1.5);
 }
+.zoom2 {
+    padding: 25px;
+    transition: transform .2s; /* Animation */
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.zoom2:hover {
+    transform: scale(3.0);
+}
 .barra {
     position: absolute;
     right: 0;

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title xml:id="https://musicbrainz.org/recording/dce1bed7-85bf-4a5e-92b7-dc30dba53897">Come esempio sulla massa</dc:title>
+  <dc:creator>Simone De Lorenzi</dc:creator>
+  <dc:date>2022-07-17</dc:date>
+  <dc:subject>Testo di canzone</dc:subject>
+  <dc:description>Testo digitale della canzone Come esempio sulla massa del gruppo musicale Wu Ming
+    Contingent</dc:description>
+  <dc:publisher xml:id="https://www.wikidata.org/wiki/Q16623462">Woodworm Label</dc:publisher>
+  <dc:type>Text</dc:type>
+  <dc:format>XML</dc:format>
+  <dc:language>Italiano</dc:language>
+  <dc:rights>Creative Commons BY-ND-SA 4.0</dc:rights>
+  <dc:source
+    xml:id="https://ia902505.us.archive.org/5/items/mbid-5f3c63af-cfa5-495d-98a2-c8c95fa41c3c/mbid-5f3c63af-cfa5-495d-98a2-c8c95fa41c3c-32934161703.jpg"
+    >Booklet di Schegge di Shrapnel</dc:source>
+  <dc:source
+    xml:id="https://opac.sbn.it/risultati-ricerca-avanzata/-/opac-adv/detail/REA0043904?"
+    >Gino Frontali, La prima estate di guerra, Bologna, Il Mulino, 1998.</dc:source>
+  <dcterms:available>2022-07-17</dcterms:available>
+</library>

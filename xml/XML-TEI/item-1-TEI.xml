@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soldato Manning</title>
+				<respStmt>
+					<resp>editor</resp>
+					<name xml:id="sdl">Simone De Lorenzi</name>
+				</respStmt>
+				<respStmt>
+					<resp>author</resp>
+					<name xml:id="wmc">Wu Ming Contingent</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Woodworm Label</publisher>
+				<pubPlace>Arezzo</pubPlace>
+				<date>2016-02-12</date>
+				<availability>
+					<p>Distribuito con licenza CC-BY-SA 4.0</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Testo adattato dal booklet dell'album Schegge di Shrapnel</p>
+			</sourceDesc>
+			
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<titlePage>
+				<docTitle>
+					<titlePart type="main">
+						<title type="main">Come esempio sulla massa</title>
+					</titlePart>
+				</docTitle>
+			</titlePage>
+		</front>
+		<body>
+			<lg type="strofa">
+				<l>Sono chiamato d'urgenza a visitare un soldato</l>
+				<l>ferito da una rivoltella.</l>
+				<l>Il maresciallo spiega che il soldato era sempre arrogante.</l>
+				<l>Al mattino, in seguito ad una osservazione del suo sergente,</l>
+				<l>lo minaccia coi pugni alzati,</l>
+				<l>quindi rifiuta di lasciarsi mettere i ferri</l>
+				<l>e s'avventa contro il maresciallo come per percuoterlo.</l>
+				<l>Allora questi estrae la rivoltella</l>
+				<l>e, mentre il soldato cerca di mettersi in salvo,</l>
+				<l>spara in direzione della schiena e lo vede cadere bocconi.</l>
+			</lg>
+			<lg type="strofa">
+				<l>La sera a mensa discutiamo l'avvenimento.</l>
+				<l>Non posso fare a meno di osservare</l>
+				<l>che l’uso delle armi contro un soldato ribelle</l>
+				<l>sembra inadeguato allo scopo:</l>
+				<l>o è minaccia insulsa o causa un ferita o una morte,</l>
+				<l>che fa passare il torto dalla parte del ribelle</l>
+				<l>a quella di chi l'ha colpito.</l>
+				<l>Il maggiore mi dà subito torto,</l>
+				<l>trovando che l'uso delle armi reprime ed evita</l>
+				<l>l'estensione della ribellione,</l>
+				<l>avendo un effetto salutare come esempio sulla massa.</l>
+				<l>Il ferito all'addome è morto il giorno successivo</l>
+				<l>con fenomeni di peritonite.</l>
+				<l>Il maresciallo più tardi è stato assolto</l>
+				<l>dall'imputazione di omicidio:</l>
+				<l>per inesistenza di reato.</l>				
+			</lg>
+		</body>
+		<back>
+			<ab type="occasione"> Tratto da Gino Frontali, La prima estate di guerra, Bologna, Il Mulino, 1998. La vicenda si riferisce ai mesi estivi del 1915, sul fronte del Cadore.</ab>
+		</back>
+	</text>
+</TEI>
